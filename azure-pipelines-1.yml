@@ -28,5 +28,5 @@ steps:
   inputs:
     containerRegistry: 'sankalp1-dockerhub'
     repository: 'azdevops'
-    command: 'buildAndPush'
+    command: 'build'
     Dockerfile: '**/AzureDockerfile'
