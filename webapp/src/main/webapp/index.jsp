@@ -1,3 +1,3 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1> Starck.ai</h1>
+<h2> Create ondemand content summaries</h2>
+<h2> Utilize the power of AI to create your own courses</h2>
